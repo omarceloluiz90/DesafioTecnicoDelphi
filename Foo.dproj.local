@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/10 11:34:10.000.021,=C:\Users\Marcelo\Desktop\appmanutencao-master_0.0\src\Unit1.pas</Transaction>
+    <Transaction>2022/01/10 11:35:04.000.178,C:\Users\Marcelo\Desktop\appmanutencao-master_0.0\src\Threads.pas=C:\Users\Marcelo\Desktop\appmanutencao-master_0.0\src\Unit1.pas</Transaction>
+    <Transaction>2022/01/10 11:35:04.000.178,C:\Users\Marcelo\Desktop\appmanutencao-master_0.0\src\Threads.dfm=C:\Users\Marcelo\Desktop\appmanutencao-master_0.0\src\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
